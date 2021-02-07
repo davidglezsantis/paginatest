@@ -25,3 +25,6 @@ Credits:
 
 	Other:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		
+		thank you html5 up!
